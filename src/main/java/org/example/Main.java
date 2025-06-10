@@ -5,7 +5,7 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
         Calc calculator = new Calc();
-        calculator.summ(10, 20 );
-        calculator.minus(50,4);
+        calculator.summ(10, 20);
+        calculator.minus(50, 4);
     }
-    }
+}
